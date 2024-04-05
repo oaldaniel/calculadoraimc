@@ -1,0 +1,50 @@
+h1{
+    margin-top: 50px;
+}
+
+
+#txtAltura, #txtPeso{
+    margin-top: 40px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 2px solid rgb(203, 24, 209);
+}
+
+#txtAltura:hover, #txtPeso:hover{
+    margin-top: 40px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 2px solid rgb(27, 26, 26);
+}
+
+#btnCalcular{
+    border-radius: 8px;
+    border-color: #bc82da;
+    background-color: #bc82da;
+    color: white;
+    margin-top: 60px;
+    width: 100px;
+    height: 40px;
+
+}
+
+#btnCalcular:hover{
+    border-color: #DB7093;
+    background-color: #DB7093;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 600px;
+}
+
+.contenedorIMG{
+    text-align: center;
+    margin-top: 80px;
+}
